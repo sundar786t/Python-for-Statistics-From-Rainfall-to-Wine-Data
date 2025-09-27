@@ -38,7 +38,7 @@ The aim is to showcase how Python simplifies **descriptive statistics, probabili
 ---
 ## 🚀 How to Run  
 1. Clone this repository:
-2.   ```bash
+    ```bash
    git clone https://github.com/sundar786t/Python-for-Statistics-From-Rainfall-to-Wine-Data.git
    ```bash
    git clone https://github.com/sundar786t/Python-for-Statistics-From-Rainfall-to-Wine-Data.git
